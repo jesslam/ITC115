@@ -11,11 +11,12 @@ public class Assignment3 {
 		 
 		}
 	
-	  public static void printPowersOfN(int a, int b) { 
+	  public static void printPowersOfN(double baseNum, double expNum) { 
 		  // TODO Auto-generated method stub
 	  
-		  for (int i = 1; i >= 0; i = i * a) { 
-		  System.out.print(i + " "); 
+		  for (int i = 0; expNum >= i; i++) { 
+			  //System.out.println()
+			  System.out.print((int) Math.pow(baseNum, i)  + " "); 
 		  } 
 	  }
 }
