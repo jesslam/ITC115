@@ -1,3 +1,16 @@
+//*******************************************************************
+
+
+//  Class repl
+//
+// Description of the class or method purpose:
+// Receive user input and number of times to concatenate input
+// Print concatenated input
+//By: Jessica Lam
+//Date: 10/21/19
+//*******************************************************************
+
+
 import java.util.Scanner;
 
 public class Assignment4 {
@@ -11,6 +24,9 @@ public class Assignment4 {
 		
 		System.out.println("Type a number: ");
 		int number = console.nextInt();
+		
+		repl("hello");
+		repl("world");
 				
 			}
 	public static String repl(String word) {
