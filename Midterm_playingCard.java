@@ -1,3 +1,15 @@
+//*******************************************************************
+
+
+//  The method name: playingCards
+//
+// Description of the class or method purpose:
+// This method takes shorthand user input and returns the
+// long hand equivalent of each rank and suit.
+//By: Jessica Lam
+//Date: 10/28/19
+//*******************************************************************
+
 import java.util.Scanner;
 public class Midterm_playingCard {
 
