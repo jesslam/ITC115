@@ -3,8 +3,9 @@
 //  The class or method name: isSorted
 //
 // Description of the class or method purpose:
-// This method will check an array against a sorted version of itself
-// to determine true if the original was sorted or false if not.
+// This method will check the current array index value against the next index value
+// and if the current value is always lower than the next value, the array is sorted
+// and will return true, otherwise the array is unsorted and returns false.
 //By: Jessica Lam 
 //Date: 11/18/19
 //*******************************************************************
