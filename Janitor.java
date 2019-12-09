@@ -1,3 +1,13 @@
+//*******************************************************************
+
+//  The class or method name: Janitor
+//
+// Description of the class or method purpose:
+// This method inherits the Employee superclass and overrides certain
+// methods to reflect the subclass Janitor
+//By: Jessica Lam 
+//Date: 12/9/19
+//*******************************************************************
 package Assignment11;
 
 public class Janitor extends Employee {

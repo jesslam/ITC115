@@ -1,3 +1,12 @@
+//*******************************************************************
+
+//  The class or method name: EmployeeMain
+//
+// Description of the class or method purpose:
+// This method is the client side call to Employee and subclasses.
+//By: Jessica Lam 
+//Date: 12/9/19
+//*******************************************************************
 package Assignment11;
 
 public class EmployeeMain {

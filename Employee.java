@@ -1,3 +1,13 @@
+//*******************************************************************
+
+//  The class or method name: Employee
+//
+// Description of the class or method purpose:
+// This method establishes Employee as a superclass.
+// 
+//By: Jessica Lam 
+//Date: 12/9/19
+//*******************************************************************
 package Assignment11;
 
 import java.text.NumberFormat;

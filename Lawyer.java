@@ -1,3 +1,13 @@
+//*******************************************************************
+
+//  The class or method name: Lawyer
+//
+// Description of the class or method purpose:
+// This method inherits Employee superclass and modifies certain methods
+// to reflect subclass Lawyer.
+//By: Jessica Lam 
+//Date: 12/9/19
+//*******************************************************************
 package Assignment11;
 
 public class Lawyer extends Employee{

@@ -1,3 +1,13 @@
+//*******************************************************************
+
+//  The class or method name: HarvardLawyer
+//
+// Description of the class or method purpose:
+// This method will inherits Lawyer objects and overrides certain methods
+// to reflect the subclass attriutes of HarvardLawyer
+//By: Jessica Lam 
+//Date: 12/9/19
+//*******************************************************************
 package Assignment11;
 
 public class HarvardLawyer extends Lawyer {
